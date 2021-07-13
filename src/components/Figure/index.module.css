@@ -1,0 +1,23 @@
+.figure {
+    border-radius: 8px;
+    border: 1px solid black;
+    max-width: 100%;
+    margin: 12px auto;
+    margin-bottom: 16px;
+    overflow: hidden;
+}
+
+.img {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.caption {
+    font-size: .9rem;
+    font-style: italic;
+    color: grey;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
